@@ -23,3 +23,18 @@
 	url = https://github.com/ropenscilabs/rodev
 	shallow = true
 	registered = true
+[submodule "hugodown"]
+	path = hugodown
+	url = https://github.com/r-lib/hugodown
+	shallow = true
+	registered = false
+[submodule "slugify"]
+	path = slugify
+	url = https://github.com/hrbrmstr/slugify
+	shallow = true
+	registered = false
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
+	shallow = true
+	registered = false
