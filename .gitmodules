@@ -38,3 +38,8 @@
 	url = https://github.com/ropensci/vcr
 	shallow = true
 	registered = false
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+	shallow = true
+	registered = false
