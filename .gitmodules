@@ -2,22 +2,22 @@
 	path = .registry
 	url = https://github.com/trainersoft2005/trainersoft2005.r-universe.dev
 	branch = HEAD
-[submodule "goodpress"]
-	path = goodpress
-	url = https://github.com/maelle/goodpress
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
+[submodule "goodpress"]
+	path = goodpress
+	url = https://github.com/maelle/goodpress
+[submodule "hugodown"]
+	path = hugodown
+	url = https://github.com/r-lib/hugodown
+	registered = false
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
 [submodule "rodev"]
 	path = rodev
 	url = https://github.com/ropenscilabs/rodev
-[submodule "hugodown"]
-	path = hugodown
-	url = https://github.com/r-lib/hugodown
-	registered = false
 [submodule "slugify"]
 	path = slugify
 	url = https://github.com/hrbrmstr/slugify
